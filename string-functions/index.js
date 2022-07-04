@@ -61,6 +61,7 @@ console.log(ergebnis);
 // Erwartetes Ergebnis:
 // => rot: 199, grün: 222, blau: 200
 
+console.log("------");
 
 // Versucht, Bedingungen und Berechnungen in Variablen zwischenzuspeichern.
 // Das macht euren Code lesbarer, da man die Logik nicht zwingend verstehen muss, um die Bedingung zu bearbeiten.
@@ -92,6 +93,7 @@ console.log(isInText);
 // Wenn Dominik in Text enthalten ist, gib "true" aus
 // Wenn Dominik nicht in Text enthalten ist, gib "false" aus
 
+console.log("------");
 
 // Aufgabe: Erhöhe den Rot-Kanal um 100 und gib nur den Rot-Kanal aus
 const color2 = "rgb(20, 100, 0)"
@@ -110,6 +112,7 @@ const hellrot = rotNumber + 100;
 // 3. Rot ausgeben
 console.log(hellrot);
 
+console.log("------");
 
 // Dieser String kann nicht in eine Number umgewandelt werden,
 // weil das "a" nicht als Ziffer interpretiert werden kann.
@@ -118,6 +121,8 @@ console.log(hellrot);
 const weirdNumber = "123a4567";
 console.log(weirdNumber);
 console.log(+weirdNumber);
+
+console.log("------");
 
 
 // Wir können Zahlen in binär und hexadezimal ausgeben,
