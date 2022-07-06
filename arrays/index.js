@@ -26,7 +26,7 @@ console.log(zug);
  *
  * Info: Die größten zwei "Unbekannten-Verursacher" beim Programmieren sind Server-Abfragen und Nutzereingaben
  *
- * Beispiel: Ein Zug kann keine unbekannte anzahl an Waggons haben.
+ * Beispiel: Ein Zug kann eine unbekannte anzahl an Waggons haben.
  * Eine Woche fährt der ICE733 mit 8 Waggons und in der nächsten nur mit 6. Es ist und bleibt aber der ICE733
  *
  *
