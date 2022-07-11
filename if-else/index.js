@@ -44,17 +44,17 @@ if (istHeuteDonnerstag) {
 
 const tag = "Dienstag";
 
-if (tag == "Montag") {
+if (tag === "Montag") {
     console.log("Montag");
-} else if (tag == "Dienstag") {
+} else if (tag === "Dienstag") {
     console.log("Dienstag");
-} else if (tag == "Mittwoch") {
+} else if (tag === "Mittwoch") {
     console.log("Mittwoch");
-} else if (tag == "Donnerstag") {
+} else if (tag === "Donnerstag") {
     console.log("Donnerstag");
-} else if (tag == "Freitag") {
+} else if (tag === "Freitag") {
     console.log("Freitag");
-} else if (tag == "Samstag") {
+} else if (tag === "Samstag") {
     console.log("Samstag");
 } else {
     console.log("Sonntag");
