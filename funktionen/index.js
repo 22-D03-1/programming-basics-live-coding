@@ -12,6 +12,9 @@
 
 console.log("1");
 
+// Funktionsaufruf
+nameDerFunktion();
+
 // Funktionsdeklaration
 function nameDerFunktion() {
     // Der Code zwischen den geschweiften Klammern ist in der Funktion
