@@ -8,5 +8,3 @@ console.log();
 Math.random();
 Math.floor();
 // und weitere Math Methoden
-
-
