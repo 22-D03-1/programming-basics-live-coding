@@ -23,6 +23,7 @@ for (const propertyName in car) {
 // Es gibt noch eine for Schleife
 // Die "for of Schleife"
 // Die for(element of array) Schleife
+
 // ACHTUNG: for of geht nur bei Arrays!
 
 const arr = ["Banane", "Apfel", "Melone"];
