@@ -1,0 +1,4 @@
+
+arr.forEach(function callback(currentValue , index , array) {
+    // Ihr Iterator
+}, thisArg);
