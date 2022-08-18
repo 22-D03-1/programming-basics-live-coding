@@ -14,20 +14,20 @@ function zahlMalZwei(zahl) {
 }
 
 const zahlenMalZwei = zahlen.map(zahlMalZwei);
-console.log(zahlenMalZwei);
+console.log(zahlenMalZwei); // [2, 4, 6]]
 
 // Methode 2 - Die übergeben Funktion ist anonym
 
 const zahlenAufNull = zahlen.map(() => {
     return 0;
 });
-console.log(zahlenAufNull);
+console.log(zahlenAufNull); // [0, 0, 0]
 
 // Ein neues Array erzeugen in dem alle Elemente durch x ersetzt sind
 const neuesArray = zahlen.map(() => {
     return "x";
 });
-console.log(neuesArray);
+console.log(neuesArray); // [x, x, x]
 
 // Welche Parameter übergibt map noch?
 
