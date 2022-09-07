@@ -17,7 +17,7 @@ const car = {
 };
 
 for (const propertyName in car) {
-    console.log(propertyName);
+    console.log(propertyName, car[propertyName]);
 }
 
 // Es gibt noch eine for Schleife
